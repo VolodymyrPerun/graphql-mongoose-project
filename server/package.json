@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon server/app.js"
   },
-  "author": "",
+  "author": "Volodymyr Perun",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -17,6 +17,7 @@
     "nodemon": "^1.18.10"
   },
   "devDependencies": {
-    "@types/graphql": "^14.5.0"
+    "@types/graphql": "^14.5.0",
+    "@types/mongoose": "^5.10.5"
   }
 }
