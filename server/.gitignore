@@ -2,3 +2,9 @@
 .DS_Store
 .env
 /config
+.idea
+/idea
+.git
+/git
+/github
+.github
