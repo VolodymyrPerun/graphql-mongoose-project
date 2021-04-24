@@ -1,2 +1,2 @@
-# graphql-mongoose-react-project
+# graphql-mongoose-project
  graphql mongoose tutorial
